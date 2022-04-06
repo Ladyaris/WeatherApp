@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+        <string name="enter_your_city_name">Enter Your City Name</string>
+        <string name="get_weather">Get Weather</string>
+        <string name="degree">12°C</string>
+        <string name="city_name">City Name</string>
+        <string name="country_code">Country Code</string>
+        <string name="error_message">Try Again</string>
+        <string name="greetings">Hello, Today\'s Weather At</string>
+        <string name="daily_weather">Here\'s 7 Day Weather</string>
+        <string name="status">Clear Sky</string>
+        <string name="max_temp">Max Temp</string>
+        <string name="min_temp">Min Temp</string>
+    <string name="txt_sunrise">Sunrise</string>
+    <string name="txt_clock">06:40 AM</string>
+    <string name="txt_sunset">Sunset</string>
+    <string name="txt_wind">Wind</string>
+    <string name="txt_pressure">Pressure</string>
+    <string name="txt_humidity">Humidity</string>
+    <string name="txt_visibility">Visibility</string>
+    <string name="txt_clear_sky">Clear Sky</string>
+    <string name="txt_please_wait">Please Wait...</string>
+</resources>
